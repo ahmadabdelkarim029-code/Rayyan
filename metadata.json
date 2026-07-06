@@ -1,0 +1,6 @@
+{
+  "name": "الأثير",
+  "description": "نظام إدارة كامل للدروس الخصوصية يتيح للمعلم إدارة الطلاب، المجموعات، الحضور، المدفوعات الشهرية، والتواصل مع أولياء الأمور.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
